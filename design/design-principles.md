@@ -1,5 +1,10 @@
 # OpenClimb Design Principles
 
+> **Beauty lies in simplicity.**
+
+> Every design decision in OpenClimb should support clarity, speed and ease of use.
+
+
 ## 1. Map First
 
 The map is the primary navigation element.
