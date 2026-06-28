@@ -72,3 +72,9 @@ They never replace it.
 ## 10. Future Ready
 
 The application should be easy to expand with new climbing disciplines such as Trad, Sport, Drytool and Boulder without redesigning the interface.
+
+---
+
+## 11. Climb, Don't Scroll
+
+OpenClimb should help climbers spend less time looking at their phones and more time climbing.
